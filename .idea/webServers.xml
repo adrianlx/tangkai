@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6199592c-7492-4cc0-91ef-1c90e63ce93b" name="apache" url="http://127.0.0.1:8080/tangkai">
+        <fileTransfer port="0" mountedRoot="D:\software\apache-tomcat-7.0.75" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
